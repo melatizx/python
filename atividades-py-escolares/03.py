@@ -1,0 +1,5 @@
+n1 = input("1º número: ")
+n2 = input("2º número: ")
+n3 = input("3º número: ")
+resultado = int(n1) + int(n2) + int(n3)
+print(resultado)
